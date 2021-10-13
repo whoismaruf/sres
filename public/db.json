@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Nivea Men",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dicta magnam eos sapiente hic voluptatem asperiores aliquid debitis. Ab, saepe.",
+            "price": 12.90
+        },
+        {
+            "id": 2,
+            "name": "Nivea Men",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dicta magnam eos sapiente hic voluptatem asperiores aliquid debitis. Ab, saepe.",
+            "price": 12.90
+        },
+        {
+            "id": 3,
+            "name": "Nivea Men",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dicta magnam eos sapiente hic voluptatem asperiores aliquid debitis. Ab, saepe.",
+            "price": 12.90
+        },
+        {
+            "id": 4,
+            "name": "Nivea Men",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dicta magnam eos sapiente hic voluptatem asperiores aliquid debitis. Ab, saepe.",
+            "price": 12.90
+        },
+        {
+            "id": 5,
+            "name": "Nivea Men",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dicta magnam eos sapiente hic voluptatem asperiores aliquid debitis. Ab, saepe.",
+            "price": 12.90
+        },
+        {
+            "id": 6,
+            "name": "Nivea Men",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dicta magnam eos sapiente hic voluptatem asperiores aliquid debitis. Ab, saepe.",
+            "price": 12.90
+        }
+    ]
+}
